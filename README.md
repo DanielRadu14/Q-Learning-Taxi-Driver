@@ -5,4 +5,4 @@ Press L to train the agent on all possible configurations.
 Press R to choose a configuration.
 Press P to execute the best action given your current state in the game.
 
-W,A,S,D helps you control the Taxi with no restrictions.
+W,A,S,D help you control the Taxi with no restrictions.
